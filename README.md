@@ -1,6 +1,7 @@
 Aquí tienes un archivo en formato Markdown que explica las etiquetas de HTML:
 
 ````markdown
+
 # Introducción a las Etiquetas HTML
 
 HTML (HyperText Markup Language) es el lenguaje de marcado estándar para crear páginas web. Las etiquetas son los componentes fundamentales de HTML, ya que definen la estructura de un documento y especifican el tipo de contenido que se está mostrando. Las etiquetas HTML se utilizan para estructurar texto, enlaces, imágenes, tablas y otros elementos dentro de una página web.
@@ -12,6 +13,7 @@ Una etiqueta HTML suele tener la siguiente estructura:
 ```html
 <etiqueta>Contenido</etiqueta>
 ````
+# TITULO DE PRUEBA
 
 * **<etiqueta>**: Es la etiqueta de apertura. Indica el comienzo de un elemento HTML.
 * **Contenido**: Es el texto o los elementos que están dentro de la etiqueta.
