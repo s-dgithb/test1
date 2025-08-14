@@ -66,7 +66,11 @@ Ejemplo:
   <li>Elemento 3</li>
 </ul>
 ```
-
+<ul>
+  <li>A</li>
+  <li>B</li>
+  <li>c</li>
+</ul>
 ### 5. Etiquetas de Tablas
 
 * `<table>`: Define una tabla.
@@ -88,6 +92,16 @@ Ejemplo:
   </tr>
 </table>
 ```
+<table>
+  <tr>
+    <th>prueba</th>
+    <th>prueba 2</th>
+  </tr>
+  <tr>
+    <td>celda de prueba 1</td>
+    <td>celda de prueba 2</td>
+  </tr>
+</table>
 
 ### 6. Etiquetas de Formulario
 
@@ -103,6 +117,10 @@ Ejemplo:
   <button type="submit">Enviar</button>
 </form>
 ```
+<form>
+  <input type="text" placeholder="Escribe algo para el formulario!">
+  <button type="submit">Enviar</button>
+</form>
 
 ## Etiquetas Auto-Cerradas
 
